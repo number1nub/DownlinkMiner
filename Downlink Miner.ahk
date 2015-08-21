@@ -31,12 +31,12 @@ ExitApp
 
 
 #Include lib\Average.ahk
-#Include 
+#Include lib\CopyFiles.ahk
 #Include lib\Exit.ahk
 #Include lib\FileCount.ahk
-#Include 
+#Include lib\GetDownlinkFiles.ahk
 #Include lib\GetRootDir.ahk
 #Include lib\m.ahk
 #Include lib\Reload.ahk
-#Include 
+#Include lib\Splash.ahk
 #Include lib\TrayMenu.ahk
