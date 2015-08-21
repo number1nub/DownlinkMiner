@@ -3,7 +3,7 @@
 SetWorkingDir, %A_ScriptDir%
 
 TrayMenu()
-rootDir  := GetRootDir(%true%)
+rootDir := GetRootDir(%true%)
 
 Splash("Searching for downlink files.")
 fileList := GetDownlinkFiles(rootDir "\RSS*")
